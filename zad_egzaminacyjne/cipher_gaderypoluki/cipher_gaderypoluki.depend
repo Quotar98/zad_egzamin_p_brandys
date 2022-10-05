@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664873507 source:c:\users\barte\desktop\lessons\class 2p\c++\cipher_gaderypoluki\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+
